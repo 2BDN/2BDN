@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+meu nome é daniel 
+eu estou estudando no alura
 <!--
 **2BDN/2BDN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
